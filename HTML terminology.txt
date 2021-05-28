@@ -1,0 +1,5 @@
+URL = Uniform Resource Location
+Client sents the requests the Server in HTTP or HTTPS language
+HTTP = Hyper text Transfer Protocol
+HTTPS = HTPP + Encryption
+DOM = Document Object Model
